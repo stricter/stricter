@@ -57,7 +57,7 @@
         "@types/rimraf": "3.0.0",
         "@types/wrap-ansi": "3.0.0",
         "@types/xxhashjs": "0.2.2",
-        "@types/yargs": "16.0.1",
+        "@types/yargs": "16.0.3",
         "@typescript-eslint/eslint-plugin": "4.21.0",
         "@typescript-eslint/parser": "4.21.0",
         "babel-core": "7.0.0-bridge.0",
