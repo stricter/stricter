@@ -61,7 +61,7 @@
         "@typescript-eslint/eslint-plugin": "4.21.0",
         "@typescript-eslint/parser": "4.21.0",
         "babel-core": "7.0.0-bridge.0",
-        "concurrently": "6.0.1",
+        "concurrently": "6.2.0",
         "coveralls": "3.1.0",
         "cross-env": "7.0.3",
         "eslint": "7.23.0",
