@@ -53,7 +53,7 @@
         "@types/graphlib": "2.1.7",
         "@types/jest": "26.0.22",
         "@types/micromatch": "4.0.1",
-        "@types/node": "14.14.37",
+        "@types/node": "14.17.3",
         "@types/rimraf": "3.0.0",
         "@types/wrap-ansi": "3.0.0",
         "@types/xxhashjs": "0.2.2",
